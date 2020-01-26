@@ -4,7 +4,7 @@
 - Used technologies : Android, Kotlin, XML, RxJava
 - API used : The Movie Database API\
     Base URL : https://api.themoviedb.org/3/ \
-    Popular URL : https://api.themoviedb.org/3/movie/popular?api_key=<<api_key>>&language=en-US&page=1 \
+    Popular URL : https://api.themoviedb.org/3/movie/popular?api_key=<<api_key>> \
     Poster URL : https://image.tmdb.org/t/p/w342/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg 
 - Used design patterns : MVVM pattern
 - Username & Password of the dummy login
