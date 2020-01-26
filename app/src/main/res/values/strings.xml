@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieInfo</string>
+    <string name="connectionProb">Connection Problem!</string>
+    <string name="movie">Movie</string>
+    <string name="errMsg">Error Message</string>
+    <string name="login">Login</string>
+    <string name="un">Username</string>
+    <string name="pw">Password</string>
+    <string name="logOut">Log out</string>
+</resources>
